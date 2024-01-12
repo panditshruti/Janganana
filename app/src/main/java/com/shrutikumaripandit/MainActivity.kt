@@ -23,7 +23,6 @@ class MainActivity : AppCompatActivity() {
         val password = sharedPreferences.getString("PASSWORD", "").toString()
 
 
-
         arraylist = arrayListOf()
         arraylist.add("1-Ramlal ram")
         arraylist.add("2-shyamlal ram")
